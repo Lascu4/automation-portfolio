@@ -1,0 +1,8 @@
+[
+  {"id": 101, "name": "Yerba mate 1kg", "variants": [{"id": 1001, "sku": "7790001", "stock": 30}]},
+  {"id": 102, "name": "Dulce de leche 400g", "variants": [{"id": 1002, "sku": "7790002", "stock": 5}]},
+  {"id": 103, "name": "Olive oil 500ml", "variants": [{"id": 1003, "sku": "7790003", "stock": 13}]},
+  {"id": 104, "name": "Coffee 250g", "variants": [{"id": 1004, "sku": "7790004", "stock": 3}]},
+  {"id": 105, "name": "Rice 1kg", "variants": [{"id": 1005, "sku": "7790005", "stock": 20}]},
+  {"id": 106, "name": "Gift card", "variants": [{"id": 1006, "sku": "GIFT-01", "stock": 99}]}
+]
